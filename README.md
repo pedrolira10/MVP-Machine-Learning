@@ -1,6 +1,5 @@
 # MVP – DETECÇÃO DE FRAUDES
 
-![image](https://github.com/user-attachments/assets/2dbdba1f-e3fa-48aa-929f-8bcd552f7a66)
 
 
 ## Introdução
